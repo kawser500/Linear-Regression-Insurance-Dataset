@@ -1,6 +1,6 @@
 # Supervised Machine Learning - Linear Regression on Insurance Dataset
 
-This is a project based on a Supervised Machine Learning challenge created by the HyperionDev Data Science Bootcamp team. The aim was to use simple and multiple linear regression on an insurance.csv dataset. This dataset is fictitional and created by the HyperionDev team for the purposes of the challenge. 
+This is a project based on a Supervised Machine Learning challenge created by the HyperionDev Data Science Bootcamp team. The aim was to use simple and multiple linear regression on an insurance.csv dataset. This dataset was obtained from kaggle (https://www.kaggle.com/datasets/mirichoi0218/insurance).  
 
 The Simple Linear Regression model plots age against insurance charges and the model is used to make predictions (e.g. on age) beyond the actual data. 
 
